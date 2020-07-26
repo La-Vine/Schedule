@@ -1,0 +1,11 @@
+/home/zzy/Project/os/target/debug/deps/proc_macro2-1b302864f2364734.rmeta: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/parse.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/detection.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/fallback.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/wrapper.rs
+
+/home/zzy/Project/os/target/debug/deps/libproc_macro2-1b302864f2364734.rlib: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/parse.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/detection.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/fallback.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/wrapper.rs
+
+/home/zzy/Project/os/target/debug/deps/proc_macro2-1b302864f2364734.d: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/parse.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/detection.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/fallback.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/wrapper.rs
+
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/lib.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/parse.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/detection.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/fallback.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/proc-macro2-1.0.19/src/wrapper.rs:
