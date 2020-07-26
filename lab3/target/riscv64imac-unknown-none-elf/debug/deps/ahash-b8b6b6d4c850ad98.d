@@ -1,0 +1,11 @@
+/home/zzy/Project/os/target/riscv64imac-unknown-none-elf/debug/deps/ahash-b8b6b6d4c850ad98.rmeta: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/convert.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/fallback_hash.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/folded_multiply.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/random_state.rs
+
+/home/zzy/Project/os/target/riscv64imac-unknown-none-elf/debug/deps/libahash-b8b6b6d4c850ad98.rlib: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/convert.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/fallback_hash.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/folded_multiply.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/random_state.rs
+
+/home/zzy/Project/os/target/riscv64imac-unknown-none-elf/debug/deps/ahash-b8b6b6d4c850ad98.d: /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/lib.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/convert.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/fallback_hash.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/folded_multiply.rs /home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/random_state.rs
+
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/lib.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/convert.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/fallback_hash.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/folded_multiply.rs:
+/home/zzy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/ahash-0.3.8/src/random_state.rs:
